@@ -1,5 +1,5 @@
 - 👋 Cloud Computing Club
-- 👀 We are interested in K8s, Spark, Delta Lake, Tensorflow, Keras, BCI.
+- 👀 We are interested in K8s, Spark, Delta Lake, Kafka, Tensorflow, Keras, BCI.
 - 🌱 We are currently getting things to work.
 - 💞️ The team is looking to collaborate on implementing a variety of projects.
 - 📫 How to reach me: 3c.scsu@gmail.com.
