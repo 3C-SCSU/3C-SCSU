@@ -1,6 +1,6 @@
-1. Create a branch from the subbranch `pull-request-practice-<name>`
-2. Create a file inside the directory `Pull_Request_Practice`
+1. Create a branch `pull-request-practice-name` from the subbranch `pull-request-practice`
+2. Create a file inside the directory `Practice_PRs`
 3. Add `Hello World!` or something of your choosing to your file
 4. Save your file and commit your changes
-5. Push your changes to the repositor
-6. Submit a Pull Request to add your file 
+5. Push your changes to the repository
+6. Submit a Pull Request to add your file
